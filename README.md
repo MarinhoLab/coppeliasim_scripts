@@ -5,6 +5,6 @@ Useful scripts and information about CoppeliaSim.
 
 Before simulation, reset all joint target positions to match the current joint positions.
 
-`Add` > `Script` > `Customization Script` > `Non threaded` > `Python`
+_Add > Script > Customization Script > Non threaded > Python_
 
 Tested in `4.7.0-rev4`.
